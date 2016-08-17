@@ -4,10 +4,8 @@ open System
 open Fable.Core
 open Fable.Import
 open Fable.Import.ReactNative
-open Fable.Import.ReactNativeImagePicker
 open Fable.Helpers.ReactNative
 open Fable.Helpers.ReactNative.Props
-open Fable.Helpers.ReactNativeSimpleStore
 
 
 type Sudoku (props) =
